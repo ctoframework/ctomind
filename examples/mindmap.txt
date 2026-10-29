@@ -1,0 +1,119 @@
+🧠 The CTO's Mind Map
+├── 🎯 Strategy
+│   ├── 🔭 Vision
+│   │   ├── 3-year technology horizon
+│   │   ├── Build vs. buy vs. partner
+│   │   └── 🌱 Emerging tech radar
+│   │       ├── 🤖 AI and agents
+│   │       ├── ☁️ Platform shifts
+│   │       └── 🔐 Post-quantum security
+│   ├── 🗺️ Roadmap
+│   │   ├── Now / Next / Later
+│   │   ├── Outcomes over outputs
+│   │   └── ⚖️ Trade-offs
+│   │       ├── Speed vs. quality
+│   │       └── Features vs. tech debt
+│   └── 💰 Budget
+│       ├── Cloud costs (FinOps)
+│       ├── Headcount planning
+│       └── 📈 ROI of engineering
+├── 🏗️ Architecture
+│   ├── 🧱 Foundations
+│   │   ├── Monolith or microservices?
+│   │   ├── Data model
+│   │   └── APIs and contracts
+│   ├── 📡 Operations
+│   │   ├── 🚨 Incident response
+│   │   │   ├── On-call rotation
+│   │   │   └── Blameless postmortems
+│   │   ├── 📊 Observability
+│   │   └── 🛡️ Security and compliance
+│   └── 🧹 Tech debt
+│       ├── Make it visible
+│       └── Pay it down continuously
+├── 🚀 Delivery
+│   ├── 🔁 Process
+│   │   ├── Scrum, Kanban, Shape Up
+│   │   ├── CI/CD
+│   │   └── Feature flags
+│   ├── 📏 Metrics
+│   │   ├── DORA
+│   │   │   ├── Deployment frequency
+│   │   │   ├── Lead time for changes
+│   │   │   ├── Change failure rate
+│   │   │   └── Time to restore
+│   │   ├── Cycle time
+│   │   └── Developer experience
+│   └── ✅ Quality
+│       ├── Testing pyramid
+│       └── Code review
+├── 🧩 Business
+│   ├── 🤝 Product partnership
+│   ├── 🧑‍💼 Board and investors
+│   │   ├── Translate tech into risk and money
+│   │   └── Monthly update
+│   └── 🛒 Customers
+│       ├── Sales engineering
+│       └── Trust and reliability
+├── 🗺️ Mind maps
+│   ├── 📜 History
+│   │   ├── Porphyry's tree, 3rd century
+│   │   ├── Tony Buzan popularises it, 1970s
+│   │   └── Digital tools, 1990s onward
+│   ├── ✏️ How to draw one
+│   │   ├── One central idea
+│   │   ├── Branches radiate outward
+│   │   ├── One keyword per branch
+│   │   └── 🎨 Colours and images
+│   ├── 💡 Why they work
+│   │   ├── Mirror how memory associates
+│   │   ├── Show the whole at a glance
+│   │   └── Easy to extend
+│   └── 🧰 Uses
+│       ├── Planning a roadmap
+│       ├── Brainstorming
+│       ├── Onboarding maps
+│       └── 🎤 Talk outlines
+├── 👥 People
+│   ├── 🧲 Hiring
+│   │   ├── Structured interviews
+│   │   ├── Diverse pipelines
+│   │   └── 📣 Employer brand
+│   ├── 🌳 Growth
+│   │   ├── Career ladders
+│   │   ├── Coaching and 1:1s
+│   │   └── 🎓 Mentoring
+│   ├── 🏛️ Org design
+│   │   ├── Team topologies
+│   │   │   ├── Stream-aligned
+│   │   │   ├── Platform
+│   │   │   ├── Enabling
+│   │   │   └── Complicated-subsystem
+│   │   ├── Conway's law
+│   │   └── Span of control
+│   └── 🎭 Culture
+│       ├── Psychological safety
+│       ├── Ownership
+│       └── 🎉 Celebrate wins
+├── 🧭 Leadership
+│   ├── 🪞 Self
+│   │   ├── Delegate, don't hero
+│   │   ├── 🧘 Manage energy
+│   │   └── Keep learning
+│   ├── 🗣️ Communication
+│   │   ├── Write things down
+│   │   ├── Over-communicate context
+│   │   └── Say no with reasons
+│   └── ⚡ Decisions
+│       ├── Reversible or not?
+│       ├── Write an ADR
+│       └── Disagree and commit
+└── 🔄 Career paths
+    ├── 🧑‍💻 Engineer
+    ├── 👩‍🏫 Tech lead
+    ├── 🧑‍🏭 Engineering manager
+    ├── 🏢 Director / VP
+    └── 👑 CTO
+        ├── Startup CTO, hands-on
+        ├── Scale-up CTO, builds the org
+        └── Enterprise CTO, sets strategy

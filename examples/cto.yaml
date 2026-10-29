@@ -1,0 +1,14 @@
+text: CTO Framework
+children:
+  - text: People
+    children:
+      - text: Hiring
+      - text: Org design
+        children:
+          - text: Teams
+          - text: Levels
+  - text: Delivery
+    children:
+      - text: Roadmap
+      - text: Quality
+  - text: Strategy

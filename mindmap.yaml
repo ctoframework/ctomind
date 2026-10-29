@@ -1,0 +1,166 @@
+text: 🧠 The CTO's Mind Map
+children:
+  # ---- right side: the work of a CTO ----
+  - text: 🎯 Strategy
+    side: right
+    children:
+      - text: 🔭 Vision
+        children:
+          - text: 3-year technology horizon
+          - text: Build vs. buy vs. partner
+          - text: 🌱 Emerging tech radar
+            children:
+              - text: 🤖 AI and agents
+              - text: ☁️ Platform shifts
+              - text: 🔐 Post-quantum security
+      - text: 🗺️ Roadmap
+        children:
+          - text: Now / Next / Later
+          - text: Outcomes over outputs
+          - text: ⚖️ Trade-offs
+            children:
+              - text: Speed vs. quality
+              - text: Features vs. tech debt
+      - text: 💰 Budget
+        children:
+          - text: Cloud costs (FinOps)
+          - text: Headcount planning
+          - text: 📈 ROI of engineering
+  - text: 🏗️ Architecture
+    side: right
+    children:
+      - text: 🧱 Foundations
+        children:
+          - text: Monolith or microservices?
+          - text: Data model
+          - text: APIs and contracts
+      - text: 📡 Operations
+        children:
+          - text: 🚨 Incident response
+            children:
+              - text: On-call rotation
+              - text: Blameless postmortems
+          - text: 📊 Observability
+          - text: 🛡️ Security and compliance
+      - text: 🧹 Tech debt
+        children:
+          - text: Make it visible
+          - text: Pay it down continuously
+  - text: 🚀 Delivery
+    side: right
+    children:
+      - text: 🔁 Process
+        children:
+          - text: Scrum, Kanban, Shape Up
+          - text: CI/CD
+          - text: Feature flags
+      - text: 📏 Metrics
+        children:
+          - text: DORA
+            children:
+              - text: Deployment frequency
+              - text: Lead time for changes
+              - text: Change failure rate
+              - text: Time to restore
+          - text: Cycle time
+          - text: Developer experience
+      - text: ✅ Quality
+        children:
+          - text: Testing pyramid
+          - text: Code review
+  - text: 🧩 Business
+    side: right
+    children:
+      - text: 🤝 Product partnership
+      - text: 🧑‍💼 Board and investors
+        children:
+          - text: Translate tech into risk and money
+          - text: Monthly update
+      - text: 🛒 Customers
+        children:
+          - text: Sales engineering
+          - text: Trust and reliability
+  # ---- left side: mind maps, and the CTO as a person ----
+  - text: 🗺️ Mind maps
+    side: left
+    children:
+      - text: 📜 History
+        children:
+          - text: Porphyry's tree, 3rd century
+          - text: Tony Buzan popularises it, 1970s
+          - text: Digital tools, 1990s onward
+      - text: ✏️ How to draw one
+        children:
+          - text: One central idea
+          - text: Branches radiate outward
+          - text: One keyword per branch
+          - text: 🎨 Colours and images
+      - text: 💡 Why they work
+        children:
+          - text: Mirror how memory associates
+          - text: Show the whole at a glance
+          - text: Easy to extend
+      - text: 🧰 Uses
+        children:
+          - text: Planning a roadmap
+          - text: Brainstorming
+          - text: Onboarding maps
+          - text: 🎤 Talk outlines
+  - text: 👥 People
+    side: left
+    children:
+      - text: 🧲 Hiring
+        children:
+          - text: Structured interviews
+          - text: Diverse pipelines
+          - text: 📣 Employer brand
+      - text: 🌳 Growth
+        children:
+          - text: Career ladders
+          - text: Coaching and 1:1s
+          - text: 🎓 Mentoring
+      - text: 🏛️ Org design
+        children:
+          - text: Team topologies
+            children:
+              - text: Stream-aligned
+              - text: Platform
+              - text: Enabling
+              - text: Complicated-subsystem
+          - text: Conway's law
+          - text: Span of control
+      - text: 🎭 Culture
+        children:
+          - text: Psychological safety
+          - text: Ownership
+          - text: 🎉 Celebrate wins
+  - text: 🧭 Leadership
+    side: left
+    children:
+      - text: 🪞 Self
+        children:
+          - text: Delegate, don't hero
+          - text: 🧘 Manage energy
+          - text: Keep learning
+      - text: 🗣️ Communication
+        children:
+          - text: Write things down
+          - text: Over-communicate context
+          - text: Say no with reasons
+      - text: ⚡ Decisions
+        children:
+          - text: Reversible or not?
+          - text: Write an ADR
+          - text: Disagree and commit
+  - text: 🔄 Career paths
+    side: left
+    children:
+      - text: 🧑‍💻 Engineer
+      - text: 👩‍🏫 Tech lead
+      - text: 🧑‍🏭 Engineering manager
+      - text: 🏢 Director / VP
+      - text: 👑 CTO
+        children:
+          - text: Startup CTO, hands-on
+          - text: Scale-up CTO, builds the org
+          - text: Enterprise CTO, sets strategy
